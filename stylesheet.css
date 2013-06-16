@@ -1,4 +1,9 @@
 body
 {
 	background-color: #FC5242;
-	}
+}
+img
+{
+	display: block;
+	margin: auto
+}
